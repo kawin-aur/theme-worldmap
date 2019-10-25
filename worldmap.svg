@@ -5,10 +5,8 @@
                 <g id="Canada" code="CA" ticker="MSCACADP">
 <path fill="#eaeaea" stroke="#ffffff" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M120.192,58.789l10.486-10.487l-23.051-23.05l6.143-6.142H69.938L59.545,29.503H41.204v42.032l5.663,5.663l-1.085,1.084l8.71,8.709h37.702l7.935-7.935l13.087,13.087l5.152-5.152h17.202l6.412-6.413L120.192,58.789z M105.474,46.376v22.861L87.81,51.573l9.541-9.542v-4.063h16.533L105.474,46.376z" /> </g>
                 <g id="United_States" code="US" ticker="!MSTAR">
-<g>
 <polygon fill="#eaeaea" stroke="#ffffff" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="41.204,71.536 41.204,29.503 27.013,29.503 16.099,40.417 16.099,54.738 30.085,68.724 24.698,74.11 24.698,79.351 28.167,79.35137.509,70.009 45.782,78.283 46.867,77.198 " />
 <polygon fill="#eaeaea" stroke="#ffffff" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="118.368,86.992 113.216,92.144 106.755,98.604 106.755,86.992 92.194,86.992 54.492,86.992 54.492,107.363 64.126,116.99776.177,116.997 90.9,131.72 90.9,116.997 101.513,116.997 104.82,120.304 104.82,125.42 108.283,121.957 108.283,116.356118.339,106.301 118.339,95.365 127.197,95.365 135.57,86.992 " /> </g>
-                </g>
                 <g id="Belize">
 <rect x="98.78" y="142.55" fill="#eaeaea" stroke="#ffffff" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="2.514" height="2.683" /> </g>
                 <g id="Iceland">
